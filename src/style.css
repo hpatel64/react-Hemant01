@@ -1,0 +1,25 @@
+h1, p {
+  font-family: Lato;
+   /* padding: 2px; */
+   align-self: center;
+   margin: 1px;
+   background-color:#DDB996;
+   border-radius: 2px;
+
+}
+.cls1{
+  background-color: #DDB996;
+  padding: 2px;
+}
+.cls2{
+  background-color: rgb(90, 57, 24);
+  /* border-radius: 25px; */
+  padding: 2px;
+}
+.cntP{
+  display: inline-block;
+  background-color: #543618;
+  color: #E7F0F0;
+  padding: 2px;
+  font-size: 11px;
+}
